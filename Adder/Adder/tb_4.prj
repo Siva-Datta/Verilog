@@ -1,0 +1,8 @@
+verilog work "../Floating-Point-Adder-master/src/fraction_mux.v"
+verilog work "../Floating-Point-Adder-master/src/float_sm_alu.v"
+verilog work "../Floating-Point-Adder-master/src/float_control_2.v"
+verilog work "../Floating-Point-Adder-master/src/float_add.v"
+verilog work "../Floating-Point-Adder-master/src/final.v"
+verilog work "../Floating-Point-Adder-master/src/exp_mux.v"
+verilog work "../Floating-Point-Adder-master/src/float_adder.v"
+verilog work "../Floating-Point-Adder-master/src/tb_4.v"
