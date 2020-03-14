@@ -1,0 +1,5 @@
+verilog isim_temp "fsm.v"
+verilog isim_temp "counter.v"
+verilog isim_temp "parking.v"
+verilog isim_temp "test_text.v"
+verilog isim_temp "C:/Xilinx2/14.7/ISE_DS/ISE//verilog/src/glbl.v"
